@@ -8,17 +8,23 @@
 ![DL Badge](https://img.shields.io/badge/Deep_Learning-Computer_Vision-ff6b6b)
 ![DSA Badge](https://img.shields.io/badge/DSA-Java-orange)
 ![Spring Badge](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F)
+![ML Badge](https://img.shields.io/badge/Machine_Learning-Exploring-brightgreen)
+![DL Badge](https://img.shields.io/badge/Deep_Learning-Computer_Vision-ff6b6b)
+![DSA Badge](https://img.shields.io/badge/DSA-Java-orange)
+![Spring Badge](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F)
+![Cloud Badge](https://img.shields.io/badge/Cloud-AWS-232F3E)
+![Security Badge](https://img.shields.io/badge/Security-Exploring-blue)
 
 ---
 
 ### 🌱 Currently Learning
-Exploring Java development microservices processes and AI/ML to drive innovation.
+**Java**, **microservices**, and **AI/ML** — with a side of cloud and security curiosity.
 
 ### 💬 Ask Me About
 Machine Learning, Deep Learning, Data Structures & Algorithms
 
 ### 📫 Get in Touch
-[jatinredhu@gmail.com](mailto:jatinredhu2011@gmail.com)
+[Email Me](mailto:jatinredhu2011@gmail.com)
 
 ### 📄 My Resume
 📝 [View Here](#)
