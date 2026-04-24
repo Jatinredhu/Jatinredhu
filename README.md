@@ -47,12 +47,5 @@ ML/DL, computer vision, NLP, or Python.
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
----
-
-### 📊 GitHub Stats
-
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatinredhu&show_icons=true&hide_border=true&theme=default)
-
----
 
 ⚡ Fun fact — I play badminton and watch way too many movies to keep count.
