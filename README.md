@@ -68,3 +68,5 @@ I enjoy tackling problems end-to-end — from the idea to the deployed product. 
 
 Feel free to reach out if you want to collaborate on ML/DL projects 💡 or discuss anything around **AI** 🤖, **Cloud** ☁️, or **backend development** 🌐. Let's build something cool! 🚀
 ⚡ Fun fact — I play badminton and watch way too many movies to keep count.
+
+![matrix gif](github_gif.gif)
