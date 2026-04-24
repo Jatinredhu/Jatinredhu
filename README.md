@@ -12,25 +12,22 @@
 ---
 
 ### 🌱 Currently Learning
-Diving deeper into **Spring Boot** for backend development and sharpening **DSA in Java**.
-
-### 🔭 Currently Working On
-Writing a research paper on **brain tumor segmentation + classification** (Attention UNet++ + EfficientNetB3).
+Exploring Java development microservices processes and AI/ML to drive innovation.
 
 ### 💬 Ask Me About
-ML/DL, computer vision, NLP, or Python.
+Machine Learning, Deep Learning, Data Structures & Algorithms
 
 ### 📫 Get in Touch
 [jatinredhu@gmail.com](mailto:jatinredhu@gmail.com)
 
 ### 📄 My Resume
-📝 [View Here](#) *(add your link)*
+📝 [View Here](#)
 
 ---
 
 ### 🔗 Let's Connect!
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/www.linkedin.com/in/jatin-redhu-1632342b3)
 [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/Jatinredhu)
 
 ---
