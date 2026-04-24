@@ -56,7 +56,7 @@ Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects, and picking up **Java backend development** along the way.
 
-I've built and deployed projects across ML, NLP, and backend — from a **brain tumor segmentation + classification model** (Attention UNet++ + EfficientNetB3, Dice 0.890) to a **Dockerized expense splitter** in Spring Boot.
+I've built and deployed projects across **ML, DL, and backend development**.
 
 I enjoy tackling problems end-to-end — from the idea to the deployed product. Currently doing **Data Structures and Algorithms** and exploring microservices architecture. My approach is simple — **build, break, learn, repeat**. 🚀
 
