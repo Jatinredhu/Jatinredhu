@@ -17,13 +17,13 @@
 **Java**, **microservices**, and **AI/ML** — with a side of cloud and security curiosity.
 
 ### 💬 Ask Me About
-Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
+Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ### 📫 Get in Touch
 [Email Me](mailto:jatinredhu2011@gmail.com)
 
 ### 📄 My Resume
-📝 [View Here](#)
+📝 [View Here](https://drive.google.com/file/d/1ITh4acpLEHR1hJQ7c0_ilI_vHXXWqCxk/view?usp=drive_link)
 
 ---
 
