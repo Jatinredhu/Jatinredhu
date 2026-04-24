@@ -4,4 +4,4 @@
 - 🌱 I'm currently learning Spring Boot and Java DSA
 - 💬 Ask me about ML/DL, computer vision, or NLP
 - 📫 How to reach me: jatinredhu@gmail.com
-- ⚡ Fun fact: I play badminton and watch way too many movies
+- ⚡ Fun fact: I play badminton and watch way too many shows
