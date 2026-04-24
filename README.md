@@ -16,6 +16,9 @@
 ### 🌱 Currently Learning
 **Java**, **microservices**, and **AI/ML** — with a side of cloud and security curiosity.
 
+### 👨‍💻 Projects
+🚀 Portfolio coming soon
+
 ### 💬 Ask Me About
 Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
