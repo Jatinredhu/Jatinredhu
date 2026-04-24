@@ -54,7 +54,7 @@ Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ## 🌟 About Me 🌟
 
-Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects, and picking up **Java backend development** along the way.
+Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects,Data Science and picking up **Java backend development** along the way.
 
 I've built and deployed projects across **ML, DL, and backend development**.
 
