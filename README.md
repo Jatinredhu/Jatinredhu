@@ -18,7 +18,7 @@ Exploring Java development microservices processes and AI/ML to drive innovation
 Machine Learning, Deep Learning, Data Structures & Algorithms
 
 ### 📫 Get in Touch
-[jatinredhu@gmail.com](mailto:jatinredhu@gmail.com)
+[jatinredhu@gmail.com](mailto:jatinredhu2011@gmail.com)
 
 ### 📄 My Resume
 📝 [View Here](#)
@@ -26,9 +26,8 @@ Machine Learning, Deep Learning, Data Structures & Algorithms
 ---
 
 ### 🔗 Let's Connect!
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/www.linkedin.com/in/jatin-redhu-1632342b3)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/Jatinredhu)
+<a href="https://linkedin.com/in/jatin-redhu-1632342b3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a>
+<a href="https://leetcode.com/u/Jatinredhu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
 
 ---
 
