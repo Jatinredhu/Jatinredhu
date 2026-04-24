@@ -29,7 +29,7 @@ Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ### 🔗 Let's Connect!
 <a href="https://linkedin.com/in/jatin-redhu-1632342b3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a> &nbsp;
-<a href="https://leetcode.com/u/Jatinredhu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
+<a href="https://leetcode.com/u/Jatin_redhu_303/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
 
 ---
 ### 🛠️ Languages and Tools
@@ -54,7 +54,7 @@ Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ## 🌟 About Me 🌟
 
-Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects,Data Science and picking up **Java backend development** along the way.
+Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects, Data Science and picking up **Java backend development** along the way.
 
 I've built and deployed projects across **ML, DL, and backend development**.
 
