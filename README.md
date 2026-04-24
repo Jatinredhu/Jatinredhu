@@ -54,11 +54,11 @@ Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ## 🌟 About Me 🌟
 
-Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects in computer vision and NLP, and picking up **Java backend development** along the way.
+Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects, and picking up **Java backend development** along the way.
 
-I've built and deployed projects across ML, NLP, and backend — from a **brain tumor segmentation + classification model** (Attention UNet++ + EfficientNetB3, Dice 0.890) to a **Dockerized expense splitter** in Spring Boot. I'm currently writing a **research paper** on the brain tumor project. My core stack includes **Python, PyTorch, TensorFlow, FastAPI, Spring Boot, and Docker**, and I hold an **AWS Certified Cloud Practitioner** certification.
+I've built and deployed projects across ML, NLP, and backend — from a **brain tumor segmentation + classification model** (Attention UNet++ + EfficientNetB3, Dice 0.890) to a **Dockerized expense splitter** in Spring Boot.
 
-I enjoy tackling problems end-to-end — from the idea to the deployed product. Currently grinding **DSA in Java** and exploring microservices architecture. My approach is simple — **build, break, learn, repeat**. 🚀
+I enjoy tackling problems end-to-end — from the idea to the deployed product. Currently doing **Data Structures and Algorithms** and exploring microservices architecture. My approach is simple — **build, break, learn, repeat**. 🚀
 
 ### Education 🎓
 
