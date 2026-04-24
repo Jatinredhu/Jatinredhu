@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jatin Redhu
 
-### ✨ A passionate ML/DL Engineer & Java Developer from India 🌍
+### ✨ A passionate Data Science Engineer & ML/DL and Java Developer from India 🌍
 
 ---
 
