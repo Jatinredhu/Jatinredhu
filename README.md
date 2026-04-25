@@ -17,7 +17,7 @@
 **Java**, **microservices**, and **AI/ML** — with a side of cloud and security curiosity.
 
 ### 👨‍💻 Projects
-🚀 Portfolio coming soon
+🚀 [Check out my portfolio](https://my-portfolio-woad-three-89.vercel.app/)
 
 ### 💬 Ask Me About
 Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
