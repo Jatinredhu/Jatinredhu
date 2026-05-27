@@ -37,9 +37,7 @@ Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 ---
 ### 🛠️ Languages and Tools
 
-<p>
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,spring,react,docker,aws,git,github,figma,mysql,postgres&perrow=7)](https://skillicons.dev)
-</p>
 
 
 ## 🌟 About Me 🌟
