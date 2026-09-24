@@ -13,9 +13,6 @@
 
 ---
 
-### 🌱 Currently Learning
-**Java**, **microservices**, and **AI/ML** — with a side of cloud and security curiosity.
-
 ### 👨‍💻 Projects
 🚀 [Check out my portfolio](https://my-portfolio-woad-three-89.vercel.app/)
 
