@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jatin Redhu
 
-### ✨ A passionate Data Science Engineer & ML/DL and Java Developer from India 🌍
+### ✨ A passionate Data Science, ML/DL Engineer and Full Stack JavaScript Developer from India 🌍
 
 ---
 
@@ -20,7 +20,7 @@
 🚀 [Check out my portfolio](https://my-portfolio-woad-three-89.vercel.app/)
 
 ### 💬 Ask Me About
-Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
+Data Science,Full Stack Development, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ### 📫 Get in Touch
 [Email Me](mailto:jatinredhu2011@gmail.com)
@@ -42,9 +42,9 @@ Data Science, Machine Learning, Deep Learning, Data Structures & Algorithms, AWS
 
 ## 🌟 About Me 🌟
 
-Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL**, building real-world projects, Data Science and picking up **Java backend development** along the way.
+Hey! I'm **Jatin Redhu**, a third-year CS undergrad specializing in **Data Science** at SRM Kattankulathur 🌍. My interest in tech started early and has only grown — I'm now deep into **ML/DL, MERN STACK**, building real-world projects, Data Science and picking up **Java backend development** along the way.
 
-I've built and deployed projects across **ML, DL, and backend development**.
+I've built and deployed projects across **ML, DL, and Full Stack**.
 
 I enjoy tackling problems end-to-end — from the idea to the deployed product. Currently doing **Data Structures and Algorithms** and exploring microservices architecture. My approach is simple — **build, break, learn, repeat**. 🚀
 
@@ -54,7 +54,7 @@ I enjoy tackling problems end-to-end — from the idea to the deployed product. 
 
 ### Let's Connect 🤝
 
-Feel free to reach out if you want to collaborate on ML/DL projects 💡 or discuss anything around **AI** 🤖, **Cloud** ☁️, or **backend development** 🌐. Let's build something cool! 🚀
+Feel free to reach out if you want to collaborate on ML/DL projects 💡 or discuss anything around **AI** 🤖,**MERN Stack**, **Cloud** ☁️, or **backend development** 🌐. Let's build something cool! 🚀
 ⚡ Fun fact — I play badminton and watch way too many movies to keep count.
 
 ![matrix gif](github_gif.gif)
