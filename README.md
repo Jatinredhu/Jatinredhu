@@ -28,8 +28,6 @@ Data Science,Full Stack Development, Machine Learning, Deep Learning, Data Struc
 
 ### 🔗 Let's Connect!
 <a href="https://linkedin.com/in/jatin-redhu-1632342b3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a> &nbsp;
-<a href="https://leetcode.com/u/Jatin_redhu_303/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
-
 ---
 ### 🛠️ Languages and Tools
 
