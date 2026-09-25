@@ -36,7 +36,7 @@ Data Science,Full Stack Development, Machine Learning, Deep Learning, Data Struc
 ---
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,spring,react,docker,aws,git,github,figma,mysql&perrow=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,html,css,js,react,nodejs,express,mongodb,docker,aws,git,github,figma,mysql&perrow=7)](https://skillicons.dev)
 
 
 ## 🌟 About Me 🌟
