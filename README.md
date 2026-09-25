@@ -24,9 +24,6 @@ Data Science,Full Stack Development, Machine Learning, Deep Learning, Data Struc
 ### 📫 Get in Touch
 [Email Me](mailto:jatinredhu2011@gmail.com)
 
-### 📄 My Resume
-📝 [View Here](https://drive.google.com/file/d/1ITh4acpLEHR1hJQ7c0_ilI_vHXXWqCxk/view?usp=drive_link)
-
 ---
 
 ### 🔗 Let's Connect!
